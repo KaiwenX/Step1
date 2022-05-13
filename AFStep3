@@ -1,0 +1,4 @@
+while true do
+game.Players.LocalPlayer.Character["[HeavyWeights]"]:Activate()
+wait(0.15)
+end
