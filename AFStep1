@@ -1,0 +1,4 @@
+while true do
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-56.5155907, -58.7020378, 147.209839, -0.0524392389, -1.08734632e-07, -0.998624146, -1.59934306e-08, 1, -1.0804461e-07, 0.998624146, 1.03056488e-08, -0.0524392389)
+wait(0)
+end
